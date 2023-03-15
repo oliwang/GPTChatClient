@@ -1,5 +1,7 @@
 # GPTChatClient
-![Logo](favicon-180.png)
+<p align="center">
+  <img width="200" src="favicon-180.png">
+</p>
 
 Chat client desktop app built with OpenAI API and PyQt6.
 
