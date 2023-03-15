@@ -3,7 +3,7 @@
   <img width="200" src="favicon-180.png">
 </p>
 
-Chat client desktop app built with OpenAI API and PyQt6.
+Desktop chat app built with OpenAI API and PyQt6.
 
 # Installation
 
